@@ -1,4 +1,19 @@
 {
+  "name": "nodearc",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    // ...existing dependencies...
+  },
+  "devDependencies": {
+    // ...existing devDependencies...
+  }
+}
+{
   "dependencies": {
     "@anthropic-ai/sdk": "^0.57.0",
     "@radix-ui/react-dialog": "^1.1.14",
